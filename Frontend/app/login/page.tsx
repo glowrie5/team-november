@@ -17,8 +17,8 @@ export default function LoginPage() {
 
           <p className="mt-4 text-gray-400 text-sm">
            TrueMinds innovation’s unified learning <br />
-             platform for 50+ interns across all <br />
-             disciplines.
+           platform for 50+ interns across all <br />
+           disciplines.
           </p>
 
           <div className="mt-10 space-y-5 text-sm">
